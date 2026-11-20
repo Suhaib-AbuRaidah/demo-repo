@@ -4,6 +4,6 @@ Some description!
 
 Watch tutorial on YouTube.
 
-##Local Deevlopment
+## Local Deevlopment
 
 1. Open index.html in your browser.
